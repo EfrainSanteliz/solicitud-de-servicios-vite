@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/solicitud-de-servicios-vite/static/css/main.ccd22ee7.css",
+    "main.js": "/solicitud-de-servicios-vite/static/js/main.1e548b58.js",
+    "static/js/239.dfdb0d71.chunk.js": "/solicitud-de-servicios-vite/static/js/239.dfdb0d71.chunk.js",
+    "static/js/213.7f77f7fe.chunk.js": "/solicitud-de-servicios-vite/static/js/213.7f77f7fe.chunk.js",
+    "static/js/455.0166a58a.chunk.js": "/solicitud-de-servicios-vite/static/js/455.0166a58a.chunk.js",
+    "static/js/453.d855a71b.chunk.js": "/solicitud-de-servicios-vite/static/js/453.d855a71b.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/solicitud-de-servicios-vite/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/solicitud-de-servicios-vite/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/solicitud-de-servicios-vite/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fontawesome-webfont.eot": "/solicitud-de-servicios-vite/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/solicitud-de-servicios-vite/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/solicitud-de-servicios-vite/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/solicitud-de-servicios-vite/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/solicitud-de-servicios-vite/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/solicitud-de-servicios-vite/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/solicitud-de-servicios-vite/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/solicitud-de-servicios-vite/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/solicitud-de-servicios-vite/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/solicitud-de-servicios-vite/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/logo.svg": "/solicitud-de-servicios-vite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/solicitud-de-servicios-vite/index.html",
+    "main.ccd22ee7.css.map": "/solicitud-de-servicios-vite/static/css/main.ccd22ee7.css.map",
+    "main.1e548b58.js.map": "/solicitud-de-servicios-vite/static/js/main.1e548b58.js.map",
+    "239.dfdb0d71.chunk.js.map": "/solicitud-de-servicios-vite/static/js/239.dfdb0d71.chunk.js.map",
+    "213.7f77f7fe.chunk.js.map": "/solicitud-de-servicios-vite/static/js/213.7f77f7fe.chunk.js.map",
+    "455.0166a58a.chunk.js.map": "/solicitud-de-servicios-vite/static/js/455.0166a58a.chunk.js.map",
+    "453.d855a71b.chunk.js.map": "/solicitud-de-servicios-vite/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd22ee7.css",
+    "static/js/main.1e548b58.js"
+  ]
+}
